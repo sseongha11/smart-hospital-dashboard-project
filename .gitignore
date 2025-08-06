@@ -224,5 +224,5 @@ $RECYCLE.BIN/
 
 #src/models/*
 #smart_hospital_dashboard/models/*
-
+.idea/
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode,jetbrains+all,pycharm+all
